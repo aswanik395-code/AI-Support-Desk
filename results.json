@@ -1,0 +1,66 @@
+[
+  {
+    "id": "T-1001",
+    "subject": "Charged twice this month!!",
+    "category": "billing",
+    "urgency": "high",
+    "suggested_action": "Please investigate duplicate charge, issue refund, and confirm cancellation policy.",
+    "status": "ok"
+  },
+  {
+    "id": "T-1002",
+    "subject": "App crashes when I upload a PDF",
+    "category": "technical",
+    "urgency": "high",
+    "suggested_action": "Investigate the 500 error on /api/upload for large PDFs, check server logs, and provide a fix or temporary workaround.",
+    "status": "ok"
+  },
+  {
+    "id": "T-1003",
+    "subject": "Do you offer student discounts?",
+    "category": "general",
+    "urgency": "low",
+    "suggested_action": "Check if a student discount is available and inform the customer of eligibility and how to apply.",
+    "status": "ok"
+  },
+  {
+    "id": "T-1004",
+    "subject": "URGENT: Production is down for all our users",
+    "category": "technical",
+    "urgency": "critical",
+    "suggested_action": "Escalate immediately to engineering, notify incident response, and provide status updates.",
+    "status": "ok"
+  },
+  {
+    "id": "T-1005",
+    "subject": "How do I change my email address?",
+    "category": "account",
+    "urgency": "low",
+    "suggested_action": "Direct the user to the account settings page to update their email address, or provide step-by-step instructions.",
+    "status": "ok"
+  },
+  {
+    "id": "T-1006",
+    "subject": "Invoice shows wrong company name",
+    "category": "billing",
+    "urgency": "high",
+    "suggested_action": "Verify the invoice details, issue a corrected invoice with the legal name, and email it to the customer before month‑end.",
+    "status": "ok"
+  },
+  {
+    "id": "T-1007",
+    "subject": "Would love dark mode",
+    "category": "feature_request",
+    "urgency": "low",
+    "suggested_action": "Request product team to prioritize dark mode in upcoming releases.",
+    "status": "ok"
+  },
+  {
+    "id": "T-1008",
+    "subject": "",
+    "category": "technical",
+    "urgency": "low",
+    "suggested_action": "Could you please provide more details about the issue, including steps taken and any error messages?",
+    "status": "ok"
+  }
+]

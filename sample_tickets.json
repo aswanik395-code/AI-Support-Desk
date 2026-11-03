@@ -1,0 +1,42 @@
+[
+  {
+    "id": "T-1001",
+    "subject": "Charged twice this month!!",
+    "body": "I just checked my bank statement and I was charged $49.99 TWICE for my monthly subscription on the 1st. This is the second time this has happened. I want a refund immediately or I'm cancelling and disputing with my bank."
+  },
+  {
+    "id": "T-1002",
+    "subject": "App crashes when I upload a PDF",
+    "body": "Hi team, every time I try to upload a PDF larger than 10MB in the web app, the page freezes and then shows 'Something went wrong'. I'm on Chrome 130, Windows 11. Console shows a 500 error from /api/upload. Started happening yesterday."
+  },
+  {
+    "id": "T-1003",
+    "subject": "Do you offer student discounts?",
+    "body": "Hello! I'm a university student and I'm interested in your Pro plan. Do you have any discount for students? Thanks in advance."
+  },
+  {
+    "id": "T-1004",
+    "subject": "URGENT: Production is down for all our users",
+    "body": "Our entire team (200+ people) cannot log in since 9:15 AM. We get 'Authentication service unavailable'. We are losing money every minute. Please escalate to an engineer NOW."
+  },
+  {
+    "id": "T-1005",
+    "subject": "How do I change my email address?",
+    "body": "Hi, I changed jobs and need to update the email on my account from my old work address to my personal one. I can't find where to do that in settings. Could you point me in the right direction? No rush."
+  },
+  {
+    "id": "T-1006",
+    "subject": "Invoice shows wrong company name",
+    "body": "Our latest invoice (INV-20931) lists 'Acme Ltd' but our legal name is 'Acme Logistics Pvt Ltd'. We need a corrected invoice for our accounts department before the end of the month for tax filing."
+  },
+  {
+    "id": "T-1007",
+    "subject": "Would love dark mode",
+    "body": "Love the product, honestly use it daily! One small thing: any plans for a dark mode? My eyes would thank you at night. Keep up the great work :)"
+  },
+  {
+    "id": "T-1008",
+    "subject": "",
+    "body": "asdf??? nothing works help"
+  }
+]
